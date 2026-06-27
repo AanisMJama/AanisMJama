@@ -18,12 +18,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 [<img align="left" alt="Aanis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Aanis jama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Aanis_jama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aanis_jama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]aanis-jama-b6a976240
 
 
 [twitter]: https://twitter.com/Aanis jama
 [youtube]: https://www.youtube.com/c/Aanis jama
-[linkedin]: https://linkedin.com/in/aanis-jama-b6a976240
+[linkedin]: https://linkedin.com/in/aanis-jama-
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
