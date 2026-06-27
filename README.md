@@ -21,8 +21,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="Aanis_| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/Aanis
-[youtube]: https://www.youtube.com/c/Aanis
+[twitter]: https://twitter.com/Aanis jama
+[youtube]: https://www.youtube.com/c/Aanis jama
 [linkedin]: https://linkedin.com/in/Aanis-Jama
 
 <!--
