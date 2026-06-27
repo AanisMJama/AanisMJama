@@ -16,7 +16,5 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="aanis-jaman/-b6a976240| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 
 
- https://twitter.com/aanisfalaxfalax
-https://linkedin.com/in/aanis-jama-b6a976240
 
 
