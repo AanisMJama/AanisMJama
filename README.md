@@ -23,7 +23,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 [twitter]: https://twitter.com/Aanis jama
 [youtube]: https://www.youtube.com/c/Aanis jama
-[linkedin]: https://linkedin.com/in/Aanis-Jama
+[linkedin]: https://linkedin.com/in/aanis-jama-b6a976240
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
