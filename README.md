@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **https://github.com/AanisMJama/Vulnerability-Managent-Project**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **https://github.com/AanisMJama/programmatic-vulnerability-remediations/**
 
 ## 🚨 Threat Hunting and Security Operations
 
