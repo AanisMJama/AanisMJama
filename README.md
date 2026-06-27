@@ -13,11 +13,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="Aanisjama | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aanisjama | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="aanisfalaxfalax | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aanisjama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linked in]
 
 
-[twitter]: https://twitter.com/Aanisjama
+[twitter]: https://twitter.com/aanisfalaxfalax
 [youtube]: https://www.youtube.com/c/Aanisjama
 [linkedin]: https://linkedin.com/in/aanisjama
 
